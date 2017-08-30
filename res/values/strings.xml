@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExercicioGeral</string>
+    <string name="action_settings">Settings</string>
+    <string name="digitecodigo">\nDigite o código do lanche</string>
+    <string name="digiteqtd">\nDigite a quantidade</string>
+    <string name="calcular">Calcular</string>
+    <string name="texto">
+                   **************** CARDÁPIO ***************    \n\nCódigo - Especificação - Preço
+         \n100	 -  Cachorro quente	 - 1,50 
+		\n101	-   Bauru simples	-  2,00  
+		\n102	-    Bauru c/ovo	-      2,30 
+		\n103  -	Hamburger	   -   2,00 
+		\n104	 -   Cheeseburger	-  2,40 
+		\n105	 -   Refrigerante	-  1,50
+		\n\n     ***************** PEDIDO **************** 
+    </string>
+    <string name="digitesaldo">Sistema que lê seu saldo e 
+        calcula o valor de crédito \n\nDigite seu saldo:</string>
+   
+    <string name="digitecodig">SISTEMA QUE LÊ O CÓDIGO DO PRODUTO
+        A QUANTIDADE COMPRADA E CALCULA O PREÇO \n\nCódigo</string>
+        <string name="digitequanti">Quantidade</string>
+        
+    <string name="digitesalario">Digite seu salário</string>
+    <string name="digitecargo">SISTEMA SALARIAL \n\nDigite o código de seu cargo</string>
+    
+    <string name="digitenota1">Digite a Nota da 1ª Avaliação</string>
+    <string name="digitenota2">\nDigite a Nota da 2ª Avaliação</string>
+    <string name="digitenota3">\nDigite a Nota da 3ª Avaliação</string>
+    <string name="digitemediaex">\nDigite a Nota dos Exercícios</string>
+     <string name="digitera">SISTEMA PARA CÁLCULO DE NOTAS ESCOLARES \n\nDigite seu RA</string>
+     
+     <string name="txt">BEM-VINDO AO SISTEMA DE AVALIAÇÃO MOBILE</string>
+    
+     <string name="digitecodigoo">SISTEMA QUE CALCULA 
+         IMPOSTO EM CIMA DO SEU SALÁRIO, CALCULA SUA GRATIFICAÇÃO POR
+         TEMPO DE SERVIÇO E SEU SALÁRIO LÍQUIDO \n\nnsira seu código</string>
+     <string name="digitesalbase">Insira seu salário-base</string>
+     <string name="digitetempo">Insira seu tempo de serviço</string>
+     
+     <string name="digiteKm">Sistema para calcular
+         a quantidade de combustível gasto por KM rodado \n\nDigite os KM rodados</string>
+     <string name="digitegasolina">Digite a quantidade de combustível gasto</string>
+   
+     <string name="digitenum">Sistema para calcular tabuadas \n\nTabuada desejada</string>
+     <string name="ex">Exemplo: 5</string>
+     
+     <string name="digitesalmin">Sistema Salarial \n\nDigite o valor do salário mínimo</string>
+     <string name="digitesal">Digite o valor do seu salário</string>
+     
+     <string name="digitenum1">Digite um valor</string>
+     <string name="digitenum2">Digite outro valor</string>
+     <string name="digitevalor">Sistema de controle de 
+         numeração \n\nDigite número de avaliação</string>
+     
+     <string name="digitecod">Sistema para calcular seu peso em 
+         determinado planeta \n\nDigite o código do planeta desejado</string>
+     <string name="digitepeso">Digite seu peso</string>
+     
+     <string name="digitesalar">Digite seu salário</string>
+     <string name="digitecarg">Sistema Salarial \n\nDigite o código de seu cargo</string>
+     
+     <string name="voltar">Voltar</string>
+    
+</resources>
